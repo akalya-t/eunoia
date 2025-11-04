@@ -101,10 +101,10 @@ export const moods = [
       text: "text-yellow-400",
     },
     content: {
-      quote: "Crying is not weakness. It’s healing.",
-      playlist: "Soft Piano Emotional",
-      movie: "Inside Out",
-      comfort: "Warm drink, quiet time, write feelings",
+      quote: "Happiness is contagious.",
+      playlist: "Pop Music",
+      movie: "Ratatouille",
+      comfort: "Journal 10 things that you're happy and grateful for",
     },
   },
 ];
