@@ -1,4 +1,4 @@
-# 🌈 Eunoia — The Mood Curator App
+# Eunoia — The Mood Curator App
 
 **Eunoia** (Greek: *beautiful thinking*) is a calm, pastel-toned web app that helps users explore and reflect on their emotions.  
 Built with **React, Vite, TailwindCSS, and Framer Motion**, it focuses on **mood-based UI, emotional design, and meaningful micro-interactions.**
