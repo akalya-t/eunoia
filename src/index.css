@@ -1,0 +1,25 @@
+@import 'tailwindcss';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-default: theme(colors.fuchsia.50);
+  --text-default: theme(colors.amber.950);
+}
+
+html {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Outfit', sans-serif;
+}
+
+body {
+  background-color: var(--bg-default);
+  color: var(--text-default);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
