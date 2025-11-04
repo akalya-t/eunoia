@@ -31,7 +31,7 @@ export const moods = [
     content: {
       quote: "This too shall pass.",
       playlist: "Deep Focus",
-      exercise: "2-minute guided breathing",
+      exercise: "List 10 things you see, 8 things you touch, 5 things you feel, 2 sounds you hear",
       reminder: "Take a 5 minute pause.",
     },
   },
