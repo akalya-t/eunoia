@@ -140,7 +140,7 @@ export default function Preview() {
             Try the Experience
           </Link>
           <a
-            href="https://github.com/"
+            href="https://github.com/akalya-t/eunoia"
             target="_blank"
             rel="noopener noreferrer"
             className="px-6 py-3 rounded-xl border border-amber-900 font-semibold hover:bg-amber-100 transition"
