@@ -46,7 +46,7 @@ export default function Footer() {
             <FaLinkedin />
           </a>
           <a
-            href="https://akalyadesigns.netlify.app"
+            href="https://portfolio-seven-green-64.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-amber-900 hover:drop-shadow-[0_0_6px_rgba(120,53,15,0.4)] transition"
